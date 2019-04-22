@@ -14,7 +14,8 @@ public class ReceptFactory {
     public  Reception memberReception(){
             return memberReception;
     }
-
+//
+//
     public  Reception enterpriesReception(){
          return enterpriseReception;
     }
